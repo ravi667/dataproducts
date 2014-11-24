@@ -1,0 +1,16 @@
+---
+title: "READ ME"
+author: "Ravi Ramalingam"
+date: "Tuesday, November 25, 2014"
+output: html_document
+---
+
+To help you determine your body fat status, a easy to use internet application is developed.Use the shiny apps and enter your height and weight and the application will determine your body mass index.
+
+This app will be particularly useful for
+
+- Monitoring the impact of a exercise program  
+- Answering questions about your weight and the impact of body fat  
+- Setting goals  
+
+Hope you enjoy the application and find good health and happiness.  
